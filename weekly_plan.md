@@ -1,7 +1,3 @@
-Great! Let's begin your **Time Series Analysis Journey** with **Week 1 Study Notes + Hands-on Exercises**.
-
----
-
 # 📘 Week 1: **Time Series Fundamentals with Python**
 
 ---
